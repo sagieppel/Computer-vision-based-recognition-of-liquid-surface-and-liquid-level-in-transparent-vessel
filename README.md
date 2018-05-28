@@ -7,4 +7,4 @@ Documentation and instruction are included in the readme file.
 The code was made specifically for glass vessels in chemistry laboratory but could be used for other cases of liquid in transparent containers. 
 Based on paper: [Computer vision-based recognition of liquid surfaces and phase boundaries in transparent vessels, with emphasis on chemistry applications](http://arxiv.org/abs/1404.7174)
 
-[For python version](https://github.com/sagieppel/Computer-vision-based-recognition-of-liquid-surface-and-liquid-level-in-transparent-glassware-vessel)
+For python version: https://github.com/sagieppel/Computer-vision-based-recognition-of-liquid-surface-and-liquid-level-in-transparent-glassware-vessel
